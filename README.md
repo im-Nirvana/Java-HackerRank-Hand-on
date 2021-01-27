@@ -1,1 +1,1 @@
-# Java-HackerRank-Hand-on
+# Java-HackerRank-Hands-on
